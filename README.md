@@ -45,7 +45,7 @@ This is a **Frontend Project** built with **HTML, CSS, and JavaScript** that gen
 No build tools required. Simply download or clone the repository and open `index.html` in your browser or Go Live from VS Code:
 
 ```bash
-git clone https://github.com/paveshkanungo/password-generator-vercel-repo.git
+git clone https://github.com/paveshkanungo/Password-Generator-Project.git
 cd password-generator-vercel-repo
 ```
 
